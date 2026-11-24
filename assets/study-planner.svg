@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+  <rect x="90" y="34" width="420" height="272" rx="18" fill="#fffef8" stroke="#d7ddc6" stroke-width="2"/>
+  <path d="M90 74h420" stroke="#e4e8d7" stroke-width="2"/>
+  <circle cx="116" cy="55" r="5" fill="#a9c45e"/><circle cx="134" cy="55" r="5" fill="#e6c876"/><circle cx="152" cy="55" r="5" fill="#b9d1c0"/>
+  <text x="120" y="111" fill="#243b3d" font-family="Arial,sans-serif" font-size="18" font-weight="700">A good week starts here</text>
+  <text x="120" y="133" fill="#82908a" font-family="Arial,sans-serif" font-size="10">YOUR STUDY PLAN · WEEK 04</text>
+  <rect x="120" y="154" width="105" height="104" rx="9" fill="#f0f3df"/>
+  <text x="136" y="178" fill="#73844d" font-family="Arial,sans-serif" font-size="10">MONDAY</text>
+  <rect x="136" y="190" width="68" height="7" rx="3" fill="#c8dd8a"/>
+  <rect x="136" y="206" width="53" height="7" rx="3" fill="#d4dccc"/>
+  <rect x="136" y="222" width="73" height="23" rx="5" fill="#fff" stroke="#e1e6d3"/>
+  <text x="144" y="237" fill="#63735e" font-family="Arial,sans-serif" font-size="8">BREAK TIME</text>
+  <rect x="237" y="154" width="105" height="104" rx="9" fill="#f4ead1"/>
+  <text x="253" y="178" fill="#9b8150" font-family="Arial,sans-serif" font-size="10">TUESDAY</text>
+  <rect x="253" y="190" width="70" height="7" rx="3" fill="#e6c979"/>
+  <rect x="253" y="206" width="57" height="7" rx="3" fill="#ded8c4"/>
+  <rect x="253" y="222" width="73" height="23" rx="5" fill="#fff" stroke="#e9e1d0"/>
+  <text x="261" y="237" fill="#8a7958" font-family="Arial,sans-serif" font-size="8">READING</text>
+  <rect x="354" y="154" width="132" height="104" rx="9" fill="#e3eee7"/>
+  <text x="370" y="178" fill="#597d69" font-family="Arial,sans-serif" font-size="10">WEDNESDAY</text>
+  <rect x="370" y="190" width="86" height="7" rx="3" fill="#9dc5a9"/>
+  <rect x="370" y="206" width="67" height="7" rx="3" fill="#cbd9cc"/>
+  <circle cx="445" cy="235" r="13" fill="#c4e86a"/>
+  <path d="m439 235 4 4 8-9" fill="none" stroke="#415d35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 278h150" stroke="#e4e8d7" stroke-width="2" stroke-linecap="round"/>
+  <rect x="120" y="271" width="77" height="14" rx="7" fill="#c4e86a"/>
+  <text x="212" y="282" fill="#7e8d83" font-family="Arial,sans-serif" font-size="9">3 TASKS DONE</text>
+  <circle cx="476" cy="105" r="18" fill="#c4e86a"/>
+  <path d="M476 96v18m-9-9h18" stroke="#415d35" stroke-width="2" stroke-linecap="round"/>
+</svg>

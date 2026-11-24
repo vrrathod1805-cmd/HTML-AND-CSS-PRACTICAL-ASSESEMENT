@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+  <rect x="85" y="32" width="430" height="276" rx="18" fill="#fbfdf8" stroke="#c8d9ce" stroke-width="2"/>
+  <text x="119" y="78" fill="#29433d" font-family="Arial,sans-serif" font-size="18" font-weight="700">Little green steps</text>
+  <text x="119" y="99" fill="#82958a" font-family="Arial,sans-serif" font-size="10">SMALL HABITS, A BRIGHTER PLANET</text>
+  <circle cx="437" cy="80" r="22" fill="#e7f1df"/>
+  <path d="M439 91c-18-8-14-26 7-30 2 17 0 25-7 30zm0 0c-2-10-7-15-15-17" fill="none" stroke="#71965f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="119" y="124" width="362" height="78" rx="11" fill="#e8f0df"/>
+  <text x="139" y="151" fill="#708364" font-family="Arial,sans-serif" font-size="10">YOUR WEEKLY IMPACT</text>
+  <text x="139" y="181" fill="#29433d" font-family="Arial,sans-serif" font-size="27" font-weight="700">4.2 kg</text>
+  <text x="242" y="180" fill="#698174" font-family="Arial,sans-serif" font-size="10">CO₂ saved this week</text>
+  <path d="M383 181c14-8 22-20 34-20s19 8 28-8" fill="none" stroke="#85ad58" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="383" cy="181" r="4" fill="#85ad58"/><circle cx="417" cy="161" r="4" fill="#85ad58"/><circle cx="445" cy="153" r="4" fill="#85ad58"/>
+  <text x="119" y="232" fill="#5f7268" font-family="Arial,sans-serif" font-size="11" font-weight="700">TODAY'S GOOD CHOICES</text>
+  <rect x="119" y="246" width="168" height="42" rx="8" fill="#f4f7ef" stroke="#e2e9df"/>
+  <circle cx="140" cy="267" r="11" fill="#d8e9be"/>
+  <path d="m135 267 4 4 7-9" fill="none" stroke="#658b47" stroke-width="2" stroke-linecap="round"/>
+  <text x="158" y="271" fill="#465f52" font-family="Arial,sans-serif" font-size="10">Brought a reusable cup</text>
+  <rect x="301" y="246" width="180" height="42" rx="8" fill="#f4f7ef" stroke="#e2e9df"/>
+  <circle cx="322" cy="267" r="11" fill="#d8e9be"/>
+  <path d="m317 267 4 4 7-9" fill="none" stroke="#658b47" stroke-width="2" stroke-linecap="round"/>
+  <text x="340" y="271" fill="#465f52" font-family="Arial,sans-serif" font-size="10">Walked to class</text>
+  <path d="M77 257c-22-17-24-39 1-59 8 26 7 43-1 59zm0 0c4-17 13-26 28-30" fill="#a7c87d"/>
+  <path d="M518 132c18-19 40-17 55 8-25 5-41 2-55-8zm0 0c17 2 26 10 32 25" fill="#a7c87d"/>
+</svg>
